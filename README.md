@@ -73,15 +73,15 @@ ElectionManagementSystem/ <br>
 4. Run EMS.java from your IDE to start the system.
 
 ## 👨‍🎓 Developed By
-Md. Siam Hossain
-Dept. of CSE, R.P. Shaha University
-Semester: Fall 2024
+Md. Siam Hossain <br>
+Dept. of CSE, R.P. Shaha University<br>
+Semester: Fall 2024<br>
 
-Supervisor:
-Dr. Kingkar Prosad Ghosh
+Supervisor:<br>
+Dr. Kingkar Prosad Ghosh<br>
 
 ## 📌 Conclusion
-The Election Management System revolutionizes traditional voting by offering a secure, transparent, and user-friendly digital platform. It automates the entire process from voter registration to result publication while preventing fraud and ensuring data accuracy.
+<p align = "justify">The Election Management System revolutionizes traditional voting by offering a secure, transparent, and user-friendly digital platform. It automates the entire process from voter registration to result publication while preventing fraud and ensuring data accuracy. </p>
 
 ---
 
